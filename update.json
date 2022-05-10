@@ -1,0 +1,18 @@
+{
+  "ListTool": {
+    "Tool": [
+      {
+        "id": "1",
+        "Name": "App Launcher",
+        "Version": "1.0",
+        "Link": "https://jsonformatter.org/img/tom-cruise.jpg"
+      },
+      {
+        "id": "2",
+        "Name": "Auto Update",
+        "Version": "1.0",
+        "Link": "https://jsonformatter.org/img/tom-cruise.jpg"
+      }
+    ]
+  }
+}
