@@ -3,14 +3,8 @@
     "ID": "1",
     "Name": "App Launcher",
     "Version": "1.0",
-    "Link": "https://jsonformatter.org/img/tom-cruise.jpg",
-    "Type": "App"
-  },
-  {
-    "ID": "2",
-    "Name": "App Launcher",
-    "Version": "1.0",
-    "Link": "https://jsonformatter.org/img/tom-cruise.jpg",
+    "Link": "https://github.com/baoenzo/UpdateToolAPI/raw/main/App/AppLauncherPro.zip",
     "Type": "App"
   }
+ 
 ]
