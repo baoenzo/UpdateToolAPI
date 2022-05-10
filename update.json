@@ -1,6 +1,6 @@
 {
-  "ListTool": {
-    "Tool": [
+"Tool": 
+[
       {
         "id": "1",
         "Name": "App Launcher",
@@ -14,5 +14,4 @@
         "Link": "https://jsonformatter.org/img/tom-cruise.jpg"
       }
     ]
-  }
 }
