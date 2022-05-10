@@ -1,14 +1,16 @@
 [
   {
-    "id": "1",
+    "ID": "1",
     "Name": "App Launcher",
     "Version": "1.0",
-    "Link": "https://jsonformatter.org/img/tom-cruise.jpg"
+    "Link": "https://jsonformatter.org/img/tom-cruise.jpg",
+    "Type": "App"
   },
   {
-    "id": "2",
-    "Name": "Auto Update",
+    "ID": "2",
+    "Name": "App Launcher",
     "Version": "1.0",
-    "Link": "https://jsonformatter.org/img/tom-cruise.jpg"
+    "Link": "https://jsonformatter.org/img/tom-cruise.jpg",
+    "Type": "App"
   }
 ]
